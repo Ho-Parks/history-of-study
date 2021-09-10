@@ -1,2 +1,22 @@
-# history-of-study
-공부기록 레포지토리 모으기 위한 레포
+# 📓 공부 기록
+
+### 🛠 CS
+- [Linux System](#)
+
+### 📚 Framework & Library
+
+- [Spring](#)
+- [JDBC (MYSQL)](#)
+- [Bootstrap](#)
+- [jQuery](#)
+- [Pandas](#)
+- [tensorflow](#)
+
+### 📜 Language
+
+- [Java](https://github.com/Ho-Parks/JAVA)
+- [Python](#)
+- [Javascript](#)
+- [Html & CSS](#)
+- [JSP](#)
+
